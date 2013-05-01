@@ -1,4 +1,13 @@
-my-node-todo
-============
 
-Basic todo app using node, express, require, backbone, jquery, ejs templates, mongodb
+Steps
+=====
+
+(git clone the app)
+
+(cd into the folder where the apps files were cloned)
+
+npm install .
+
+node server.js
+
+(go to localhost:8000 using a browser)

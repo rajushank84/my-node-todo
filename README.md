@@ -2,7 +2,7 @@
 Steps
 =====
 
-- git clone the app, cd into the folder where the apps files were cloned)
+- git clone the app, cd into the folder where the apps files were cloned
 
 
 - npm install
